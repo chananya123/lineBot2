@@ -29,7 +29,7 @@ def callback():
         sehun94 = 'ไปเถอะ'
         print('ไปไหนอ่ะ')
     elif (sehun94 == 'ไปนะ') :
-        print('ชวนจรี้งงงง')
+        print('ชวนจรี้งงง'')
     else :
         print('ว่างไงนะ')
 
